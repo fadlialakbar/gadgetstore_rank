@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prod001",
+    "name": "LG전자 스탠바이미 27ART10AKPL",
+    "description": "화면을 이동할 수 있고 전환도 편리하다...",
+    "shortDescription": "스탠바이미는 사랑입니다!",
+    "category": "Displays",
+    "brand": "LG전자",
+    "tags": ["편리성"],
+    "price": 899.99,
+    "rating": 4.89,
+    "reviewCount": 216,
+    "imageUrls": ["assets/images/products/lg_tv.png"],
+    "features": [
+      "헤드를 사용한 부드러운 회전으로 편리함",
+      "스탠바이미가 자율적으로"
+    ],
+    "isAvailable": true,
+    "rank": 1
+  },
+  {
+    "id": "prod002",
+    "name": "LG전자 울트라HD 75UP8300KNA",
+    "description": "화면 잘 나오고... 리모컨 기능 좋습니다...",
+    "shortDescription": "넷플 아마존 등 버튼하나로 바로 접속 되...",
+    "category": "TVs",
+    "brand": "LG전자",
+    "tags": ["고화질"],
+    "price": 1299.99,
+    "rating": 4.36,
+    "reviewCount": 136,
+    "imageUrls": ["assets/images/products/lg_tv_4k.png"],
+    "features": [
+      "화질 좋습니다... 우리집 거실 좁습니",
+      "내용 이름좀 통일해 이름쉽게 대체 워럼"
+    ],
+    "isAvailable": true,
+    "rank": 2
+  },
+  {
+    "id": "prod003",
+    "name": "라익미 스마트 DS4001L NETRANGE",
+    "description": "반응속도 및 화질이나 여러면에서도 부족...",
+    "shortDescription": "중소기업TV 라익미 제품을 사용해보았...",
+    "category": "TVs",
+    "brand": "라익미",
+    "tags": ["가성비"],
+    "price": 499.99,
+    "rating": 3.98,
+    "reviewCount": 98,
+    "imageUrls": ["assets/images/products/smart_tv.png"],
+    "features": ["넷플릭스 공식 인증", "스마트 TV 기능"],
+    "isAvailable": true,
+    "rank": 3
+  },
+  {
+    "id": "prod004",
+    "name": "AMD 라이젠 5 5600X 버미어",
+    "description": "The AMD Ryzen 5 5600X delivers exceptional performance for gamers and creators with 6 cores and 12 threads. Features Zen 3 architecture for improved efficiency.",
+    "category": "Processors",
+    "brand": "AMD",
+    "price": 299.99,
+    "rating": 4.9,
+    "reviewCount": 248,
+    "imageUrls": ["assets/images/products/rayzen.png"],
+    "features": [
+      "Zen 3 architecture",
+      "6 cores, 12 threads",
+      "Up to 4.6GHz boost clock"
+    ],
+    "isAvailable": true,
+    "rank": 4
+  }
+]

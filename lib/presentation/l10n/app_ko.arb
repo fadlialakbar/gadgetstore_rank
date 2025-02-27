@@ -1,0 +1,153 @@
+{
+  "appTitle": "LOGO Inc",
+  "homeTitle": "홈",
+  "searchTitle": "검색",
+  "categoryTitle": "카테고리",
+  "profileTitle": "프로필",
+  "communityTitle": "커뮤니티",
+  "myPageTitle": "마이페이지",
+  "favoritesTitle": "즐겨찾기",
+  
+  "searchHint": "검색어를 입력하세요",
+  "topProducts": "인기 제품",
+  "seeAll": "전체보기",
+  "reviewsCount": "{count, plural, =0{리뷰 없음} =1{리뷰 1개} other{리뷰 {count}개}}",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "bestReviewers": "베스트 리뷰어 🏆 Top10",
+  "bestReviewersIntro": "인기 리뷰어",
+  "featuredProducts": "추천 제품",
+  "newArrivals": "신상품",
+  
+  "price": "가격",
+  "rating": "평점",
+  "reviews": "리뷰",
+  "features": "특징",
+  "description": "설명",
+  "specifications": "사양",
+  
+  "addToWishlist": "위시리스트에 추가",
+  "removeFromWishlist": "위시리스트에서 제거",
+  "writeReview": "리뷰 작성",
+  "viewAllReviews": "모든 리뷰 보기",
+  
+  "filterByLatest": "최신순",
+  "filterByHighest": "평점 높은순",
+  "filterByLowest": "평점 낮은순",
+  
+  "totalReviews": "총 {count}개 리뷰",
+  "@totalReviews": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "addComment": "댓글 달기",
+  "bookmarkReview": "리뷰 저장",
+  "unbookmarkReview": "리뷰 저장 취소",
+
+  "splashTagline": "최고의 기술 제품을 찾아보세요",
+  "errorLoadingData": "데이터 로딩 오류",
+  "retry": "다시 시도",
+  "error": "오류",
+  
+  "noBannersAvailable": "배너가 없습니다",
+  "viewOffer": "제안 보기",
+  "specialOffer": "특별 혜택",
+  "onSaleNow": "지금 할인 중",
+
+  "reviewRankingTitle": "리뷰 랭킹⭐ top 3",
+  "reviewRankingSubtitle": "제일 찬한 리뷰를 만나보세요",
+  
+  "productListTitle": "모든 제품",
+  "noProductsAvailable": "제품이 없습니다",
+  
+  "productDetailTitle": "제품 상세",
+  "overviewTab": "개요",
+  "specificationsTab": "상세 사양",
+  "reviewsTab": "리뷰",
+  "addToWishlistSuccess": "{productName} 위시리스트에 추가됨",
+  "@addToWishlistSuccess": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+  },
+  "productAvailability": "재고상태",
+  "inStock": "재고 있음",
+  "outOfStock": "품절",
+  "detailsTab": "상세",
+  "specsTab": "사양",
+
+  "footerAboutUs": "회사 소개",
+  "footerCareers": "인재 채용",
+  "footerTechBlog": "기술 블로그",
+  "footerReviewRights": "리뷰 저작권",
+  "footerContactEmail": "review@gadgetrank.com",
+  "footerCopyright": "© 2022-2024 가젯랭크 Lab, Inc. (주)아무개 서울시 강남구",
+
+  "reviewerProfile": "리뷰어 프로필",
+  "noReviewsFound": "이 리뷰어의 리뷰를 찾을 수 없습니다",
+  "ranking": "랭킹",
+  "rankSuffix": "위",
+  "bestReviewer": "베스트 리뷰어",
+  "reviewerBio": "조립컴 업체를 운영하며 리뷰를 작성합니다.",
+  "rank": "랭크",
+  "reviewCount": "리뷰 수",
+  "helpfulCount": "도움됨",
+  "joinDate": "가입일",
+  "dateFormat": "yyyy년 MM월 dd일",
+  "bio": "소개",
+  "expertise": "전문 분야",
+  "badges": "배지",
+  "writtenReviews": "작성한 리뷰",
+  "pros": "장점",
+  "cons": "단점",
+  "reviewImages": "리뷰 이미지",
+  "helpful": "도움이 돼요",
+  "helpfulCountText": "{count}명에게 도움이 됨",
+  "@helpfulCountText": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "communityDescription": "커뮤니티의 모든 리뷰를 살펴보세요",
+  "viewProduct": "제품 보기",
+  "viewReviewer": "리뷰어 보기",
+  "profile": "프로필",
+  "guestUser": "게스트 사용자",
+  "signInToAccess": "계정에 접근하려면 로그인하세요",
+  "signIn": "로그인",
+  "accountSettings": "계정 설정",
+  "orders": "주문",
+  "viewOrderHistory": "주문 내역 보기",
+  "featureComingSoon": "{feature} 기능이 곧 제공됩니다!",
+  "wishlist": "위시리스트",
+  "savedProducts": "저장된 제품",
+  "myReviews": "내 리뷰",
+  "manageYourReviews": "제품 리뷰 관리",
+  "notifications": "알림",
+  "manageNotifications": "알림 관리",
+  "appSettings": "앱 설정",
+  "language": "언어",
+  "selectLanguage": "언어 선택",
+  "cancel": "취소",
+  "settings": "설정",
+  "appPreferences": "앱 환경설정 및 계정 설정",
+  "helpSupport": "도움말 및 지원",
+  "faqsAndSupport": "FAQ 및 고객 지원",
+  "about": "정보",
+  "aboutAppVersion": "가젯 랭크 정보 및 앱 버전",
+  "aboutDescription": "가젯 랭크는 최신 기술 제품을 발견하고 비교하고 리뷰할 수 있는 플랫폼입니다."
+} 

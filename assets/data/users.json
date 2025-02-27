@@ -1,0 +1,102 @@
+[
+  {
+    "id": "user001",
+    "name": "Name01",
+    "imageUrl": "assets/images/users/name01.png",
+    "status": "active",
+    "statusMessage": "전문적인 리뷰를 작성하는 것을 좋아합니다.",
+    "reviewCount": 28,
+    "joinDate": "2022-08-15T00:00:00.000Z",
+    "rank": 1
+  },
+  {
+    "id": "user002",
+    "name": "Name02",
+    "imageUrl": "assets/images/users/name02.png",
+    "status": "active",
+    "statusMessage": "기술 리뷰어 및 블로거",
+    "reviewCount": 15,
+    "joinDate": "2022-10-21T00:00:00.000Z",
+    "rank": 2
+  },
+  {
+    "id": "user003",
+    "name": "Name03",
+    "imageUrl": "assets/images/users/name03.png",
+    "status": "active",
+    "statusMessage": "혁신적인 제품을 사랑합니다.",
+    "reviewCount": 12,
+    "joinDate": "2023-01-05T00:00:00.000Z",
+    "rank": 3
+  },
+  {
+    "id": "user004",
+    "name": "Name04",
+    "imageUrl": "assets/images/users/name04.png",
+    "status": "active",
+    "statusMessage": "정직한 리뷰만 작성합니다.",
+    "reviewCount": 9,
+    "joinDate": "2023-02-18T00:00:00.000Z",
+    "rank": 4
+  },
+  {
+    "id": "user005",
+    "name": "Name05",
+    "imageUrl": "assets/images/users/name05.png",
+    "status": "active",
+    "statusMessage": "전자제품 애호가",
+    "reviewCount": 7,
+    "joinDate": "2023-03-30T00:00:00.000Z",
+    "rank": 5
+  },
+  {
+    "id": "user006",
+    "name": "Name06",
+    "imageUrl": "assets/images/users/name06.png",
+    "status": "active",
+    "statusMessage": "제품 리뷰어 및 테스터",
+    "reviewCount": 5,
+    "joinDate": "2023-04-12T00:00:00.000Z",
+    "rank": 6
+  },
+  {
+    "id": "user007",
+    "name": "Name07",
+    "imageUrl": "assets/images/users/name07.png",
+    "status": "active",
+    "statusMessage": "최신 기술 팬",
+    "reviewCount": 4,
+    "joinDate": "2023-05-25T00:00:00.000Z",
+    "rank": 7
+  },
+  {
+    "id": "user008",
+    "name": "Name08",
+    "imageUrl": "assets/images/users/name08.png",
+    "status": "active",
+    "statusMessage": "소비자 관점에서 리뷰합니다.",
+    "reviewCount": 3,
+    "joinDate": "2023-06-10T00:00:00.000Z",
+    "rank": 8
+  },
+  {
+    "id": "user009",
+    "name": "Name09",
+    "imageUrl": "assets/images/users/name09.png",
+    "status": "active",
+    "statusMessage": "디자인과 기능성을 중요시합니다.",
+    "reviewCount": 2,
+    "joinDate": "2023-07-08T00:00:00.000Z",
+    "rank": 9
+  },
+  {
+    "id": "user010",
+    "name": "Name10",
+    "imageUrl": "assets/images/users/name10.png",
+    "status": "active",
+    "statusMessage": "새로운 기술에 관심이 많습니다.",
+    "reviewCount": 1,
+    "joinDate": "2023-08-15T00:00:00.000Z",
+    "rank": 10
+  }
+]

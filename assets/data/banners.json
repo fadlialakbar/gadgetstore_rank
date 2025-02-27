@@ -1,0 +1,42 @@
+[
+  {
+    "id": "banner001",
+    "title": "할인 행사 진행중!",
+    "description": "인기 가전제품 최대 30% 할인",
+    "imageUrl": "assets/images/banners/banner_1.png",
+    "targetProductId": "prod001",
+    "startDate": "2024-02-01T00:00:00.000Z",
+    "endDate": "2024-12-31T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "id": "banner002",
+    "title": "신제품 출시",
+    "description": "최신 스마트 TV로 집에서 영화관 경험을",
+    "imageUrl": "assets/images/banners/banner_2.png",
+    "targetProductId": "prod003",
+    "startDate": "2024-02-15T00:00:00.000Z",
+    "endDate": "2024-11-15T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "id": "banner003",
+    "title": "게이머를 위한 특별 이벤트",
+    "description": "게이밍 노트북과 주변기기 할인",
+    "imageUrl": "assets/images/banners/banner_3.png",
+    "targetProductId": "prod004",
+    "startDate": "2024-02-20T00:00:00.000Z",
+    "endDate": "2024-10-20T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "id": "banner004",
+    "title": "할인 행사 진행중!",
+    "description": "인기 가전제품 최대 30% 할인",
+    "imageUrl": "assets/images/banners/banner_4.png",
+    "targetProductId": "prod005",
+    "startDate": "2024-02-01T00:00:00.000Z",
+    "endDate": "2024-10-31T23:59:59.000Z",
+    "isActive": true
+  }
+]

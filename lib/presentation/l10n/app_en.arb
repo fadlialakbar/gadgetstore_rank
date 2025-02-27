@@ -1,0 +1,157 @@
+{
+  "appTitle": "LOGO Inc", 
+  "homeTitle": "Home",
+  "searchTitle": "Search",
+  "categoryTitle": "Categories",
+  "profileTitle": "Profile",
+  "communityTitle": "Community",
+  "myPageTitle": "My Page",
+  "favoritesTitle": "Favorites",
+  
+  "searchHint": "Search for products...",
+  "topProducts": "Top Products",
+  "seeAll": "See All",
+  "reviewsCount": "{count, plural, =0{No reviews} =1{1 review} other{{count} reviews}}",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "bestReviewers": "Best Reviewer 🏆 Top 10",
+  "bestReviewersIntro": "Top Reviewer",
+  "featuredProducts": "Featured Products",
+  "newArrivals": "New Arrivals",
+  
+  "price": "Price",
+  "rating": "Rating",
+  "reviews": "Reviews",
+  "features": "Features",
+  "description": "Description",
+  "specifications": "Specifications",
+  
+  "addToWishlist": "Add to Wishlist",
+  "removeFromWishlist": "Remove from Wishlist",
+  "writeReview": "Write Review",
+  "viewAllReviews": "View All Reviews",
+  
+  "filterByLatest": "Latest",
+  "filterByHighest": "Highest Rated",
+  "filterByLowest": "Lowest Rated",
+  
+  "totalReviews": "Total {count} Reviews",
+  "@totalReviews": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "addComment": "Add Comment",
+  "bookmarkReview": "Bookmark Review",
+  "unbookmarkReview": "Remove Bookmark",
+
+  "splashTagline": "Find the best tech products",
+  "errorLoadingData": "Error loading data",
+  "retry": "Retry",
+  "error": "Error",
+  
+  "noBannersAvailable": "No banners available",
+  "viewOffer": "View Offer",
+  "specialOffer": "Special Offer",
+  "onSaleNow": "On Sale Now",
+
+  "reviewRankingTitle": "Review Ranking⭐ Top 3",
+  "reviewRankingSubtitle": "Check out the most liked reviews",
+  "productListTitle": "All Products",
+  "noProductsAvailable": "No products available",
+  
+  "productDetailTitle": "Product Details",
+  "overviewTab": "Overview",
+  "specificationsTab": "Specifications",
+  "reviewsTab": "Reviews",
+  "addToWishlistSuccess": "{productName} added to wishlist",
+  "@addToWishlistSuccess": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+  },
+  "productAvailability": "Availability",
+  "inStock": "In Stock",
+  "outOfStock": "Out of Stock",
+  "detailsTab": "Details",
+  "specsTab": "Specs",
+
+  "footerAboutUs": "About Us",
+  "footerCareers": "Careers",
+  "footerTechBlog": "Tech Blog",
+  "footerReviewRights": "Review Rights",
+  "footerContactEmail": "review@logoinc.com",
+  "footerCopyright": "© 2022-2024 Logo Inc Lab, Inc. Seoul, South Korea",
+
+  "reviewerProfile": "Reviewer Profile",
+  "noReviewsFound": "No reviews found for this reviewer",
+  "ranking": "Ranking",
+  "rankSuffix": "",
+  "bestReviewer": "Best Reviewer",
+  "reviewerBio": "I manage a computer assembly company and write reviews focusing on CPUs and graphic cards.",
+  "rank": "Rank",
+  "reviewCount": "Reviews",
+  "helpfulCount": "Helpful",
+  "joinDate": "Join Date",
+  "dateFormat": "MMM d, yyyy",
+  "bio": "About",
+  "expertise": "Expertise",
+  "badges": "Badges",
+  "writtenReviews": "Written Reviews",
+  "pros": "Pros",
+  "cons": "Cons",
+  "reviewImages": "Review Images",
+  "helpful": "Helpful",
+  "helpfulCountText": "{count} people found this helpful",
+  "@helpfulCountText": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "communityDescription": "Explore all reviews from our community",
+  "viewProduct": "View Product",
+  "viewReviewer": "View Reviewer",
+  "profile": "Profile",
+  "guestUser": "Guest User",
+  "signInToAccess": "Sign in to access your account",
+  "signIn": "Sign In",
+  "accountSettings": "Account Settings",
+  "orders": "Orders",
+  "viewOrderHistory": "View your order history",
+  "featureComingSoon": "{feature} feature coming soon!",
+  "@featureComingSoon": {
+    "placeholders": {
+      "feature": {}
+    }
+  },
+  "wishlist": "Wishlist",
+  "savedProducts": "Your saved products",
+  "myReviews": "My Reviews",
+  "manageYourReviews": "Manage your product reviews",
+  "notifications": "Notifications",
+  "manageNotifications": "Manage your notifications",
+  "appSettings": "App Settings",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  "cancel": "Cancel",
+  "settings": "Settings",
+  "appPreferences": "App preferences and account settings",
+  "helpSupport": "Help & Support",
+  "faqsAndSupport": "FAQs and customer support",
+  "about": "About",
+  "aboutAppVersion": "About Gadget Rank and app version",
+  "aboutDescription": "Gadget Rank is a platform to discover, compare, and review the latest tech products."
+} 
